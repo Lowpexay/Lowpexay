@@ -29,4 +29,5 @@
  
 
 </div>
+  
 ![Snake animation](https://github.com/Lowpexay/Lowpexay/blob/output/github-contribution-grid-snake.svg)
