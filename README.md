@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gabriel Gramacho :D
+### Olá! Meu nome é Gabriel :D
 
 
 - 🌱 Atualmente estudando front-end
