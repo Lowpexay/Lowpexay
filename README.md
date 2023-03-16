@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gabriel :D
+### Olá! :D
 
 
 - 🌱 Atualmente cursando Sistemas de Informação na FIAP
