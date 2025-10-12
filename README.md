@@ -31,4 +31,4 @@
 
 </div>
   
-![Snake animation](https://github.com/Lowpexay/Lowpexay/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Lowpexay/Lowpexay/output/github-snake.svg)
